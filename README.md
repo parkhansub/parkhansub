@@ -16,7 +16,7 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-![BYE~](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA4Y2tiZXd0Nm1kaTMycjh6dnFrdmRndXYzZndlNDkxZnd2bGFxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/47EtjlHYFREM5Rznaf/giphy.gif)
+![BYE~](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdyYm1uYjR1dWhraW5ndHd1eHh1MW1mZHBjYm5xcGgwcTBjbHgybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9KU2KmTwzptMD6/giphy.gif)
 
 ---
 
@@ -44,7 +44,7 @@
 - [ROS 패키지 Y](https://github.com/your-repo/ros-package)
   - **기여 내역:** 문서 개선 및 기능 추가
 
-![BYE~](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ4eXRqOXZhb3Q0Z2hsaWpkajIwYnVmNWttanRkc2tldW05dnM1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2m1WnCqNuyEJnigDAP/giphy.gif)
+![BYE~](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt1MzcyOXNjdXVyeGFydHE1cDN0YTh2Z2F2NTJ3azh2N3B2Z255MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MI4YqGxkFVQQg/giphy.gif)
 ---
 
 ## 📝 **블로그 & 기타 링크**
